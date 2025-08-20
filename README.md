@@ -2,7 +2,7 @@
 
 ## 🔖 Sobre
 
-O projeto **Challenge Alura Store** foi elaborado como critério avaliativo do programa **ONE** _(Oracle Next Education)_, em parceria com a **Alura**, e visa analisar o desempenho de quatro lojas e, com base em dados, identificar qual delas deve ser vendida. Tel análise considerou critérios como faturamento, categorias e mix de produtos, avaliações de clientes, mix de produtos e frete médio.
+O projeto **Challenge Alura Store** foi elaborado como critério avaliativo do programa **ONE** _(Oracle Next Education)_, em parceria com a **Alura**, e visa analisar o desempenho de quatro lojas e, com base em dados, identificar qual delas deve ser vendida. Tal análise considerou critérios como faturamento, categorias e mix de produtos, avaliações de clientes e frete médio por loja.
 
 ##  :hammer_and_wrench: Tecnologias
 
@@ -38,15 +38,15 @@ O projeto **Challenge Alura Store** foi elaborado como critério avaliativo do p
   - Frete médio mais caro, reduzindo a margem de contribuição.
 
 **Loja 4**
-  - Faturamento sólido, em linha com as melhores lojas.
-  - Forte concentração em determinadas categorias, mas com bom giro.
-  - Avaliações positivas, reforçando a confiança dos clientes.
-  - Produtos mais vendidos geram grande volume de vendas.
+  - Faturamento sólido, em linha com as melhores lojas;
+  - Forte concentração em determinadas categorias, mas com bom giro;
+  - Avaliações positivas, reforçando a confiança dos clientes;
+  - Produtos mais vendidos geram grande volume de vendas;
   - Frete médio controlado.
 
 ## 📌 Conclusão
 
-Com base nesse conjunto de informações obtidas através das ferramentas e metedologias supracitadas, cheguei à conclusão de que a Loja 3 deve ser vendida. Ela reúne os piores indicadores relativos: faturamento abaixo da média, avaliações menos favoráveis e frete mais caro. Vender essa loja permitirá que o Senhor João mantenha em operação apenas as unidades mais lucrativas, melhor avaliadas e mais eficientes logisticamente, fortalecendo a saúde geral do negócio.
+Com base nesse conjunto de informações obtidas através das ferramentas e metedologias supracitadas, cheguei à conclusão de que **a Loja 3 deve ser vendida**. Ela reúne os piores indicadores relativos: faturamento abaixo da média, avaliações menos favoráveis e frete mais caro. Vender essa loja permitirá que o Senhor João mantenha em operação apenas as unidades mais lucrativas, melhor avaliadas e mais eficientes logisticamente, fortalecendo a saúde geral do negócio.
 
 ## :computer: Desenvolvedor
 
